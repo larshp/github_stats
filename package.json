@@ -1,0 +1,21 @@
+{
+  "name": "github_stats",
+  "version": "1.0.0",
+  "description": "stats",
+  "main": "index.js",
+  "scripts": {
+    "test": "ls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larshp/github_stats.git"
+  },
+  "author": "Lars Hvam Petersen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/larshp/github_stats/issues"
+  },
+  "homepage": "https://github.com/larshp/github_stats#readme",
+  "devDependencies": {
+  }
+}
